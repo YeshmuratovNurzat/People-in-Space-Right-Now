@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">People in Space Right Now</string>
+    <string name="textName">Name:</string>
+    <string name="textCraft">Craft:</string>
+</resources>
